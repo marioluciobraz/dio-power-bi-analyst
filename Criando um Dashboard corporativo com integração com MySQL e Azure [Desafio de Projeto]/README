@@ -1,0 +1,6 @@
+Foi criado uma instância na Azure para MySQL;
+Após foi criado o Banco de dados com base disponível no github;
+em seguida foi feita uma integração do Power BI com MySQL no Azure;
+E realizada uma verificação de problemas na base a fim de realizar a transformação dos dados.
+
+Utilizando Power BI foi realizado uma transformação de dados, com verificação de cabeçalhos, modificação de de valores, mescla de consultas e nomes. Agrupamento de dados e eliminação de colunas desnecessárias.
